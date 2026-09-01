@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anti Over-Defense"
+  short_description: "Complete coding tasks without unrequested infrastructure"
+  default_prompt: "Use $anti-over-defense to implement this coding task directly and stop once the requested result is verified."
